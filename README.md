@@ -22,9 +22,12 @@ company.
 # Steps On How To Run The Transport Management System Project In PHP 
 Step 1: Open Xampp 
 Open Xampp and start the Apache and MySQL. 
+
 Step 2 : Create Database 
 Type to the URL localhost/phpmyadmin and create database 
+
 Step 3: Import Database 
 Import the sql file 
+
 Step 4 : Execute Project
 Type to the URL localhost/bussystem/
